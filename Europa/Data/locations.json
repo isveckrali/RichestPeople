@@ -1,0 +1,44 @@
+[
+  {
+    "id" : "bernard",
+    "name" : "Bernard Arnault",
+    "image" : "map-bernard",
+    "latitude" : 48.8766453,
+    "longitude" : 2.2613352
+  },
+  {
+    "id" : "elon",
+    "name" : "Elon Musk",
+    "image" : "map-elon",
+    "latitude" : 52.206211,
+    "longitude" : 20.9850045
+  },
+  {
+    "id" : "gautam",
+    "name" : "Gautam Adani",
+    "image" : "map-gautam",
+    "latitude" : 21.0529542,
+    "longitude" : 70.4270313
+  },
+  {
+    "id" : "bill",
+    "name" : "Bill Gates",
+    "image" : "map-bill",
+    "latitude" : 18.1991967,
+    "longitude" : 76.0331886
+  },
+  {
+    "id" : "jeff",
+    "name" : "Jeff Bezos",
+    "image" : "map-jeff",
+    "latitude" : 29.7474411,
+    "longitude" : -95.4223217
+  },
+  {
+    "id" : "warren",
+    "name" : "Warren Buffett",
+    "image" : "map-watten",
+    "latitude" : 29.8323813,
+    "longitude" : -95.5117115
+  }
+]

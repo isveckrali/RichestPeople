@@ -1,0 +1,30 @@
+[
+  {
+    "id" : 1,
+    "name" : "cover-bernard"
+  },
+  {
+    "id" : 2,
+    "name" : "cover-elon"
+  },
+  {
+    "id" : 3,
+    "name" : "cover-gautam"
+  },
+  {
+    "id" : 4,
+    "name" : "cover-bill"
+  },
+  {
+    "id" : 5,
+    "name" : "cover-jeff"
+  },
+  {
+    "id" : 6,
+    "name" : "cover-warren"
+  },
+  {
+    "id" : 7,
+    "name" : "cover-larry"
+  }
+]

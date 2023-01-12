@@ -1,0 +1,52 @@
+[
+  {
+    "id" : "bernard",
+    "name" : "Bernard",
+    "headline" : "Bernard Jean Étienne Arnault KBE is a French business magnate, investor, and art collector"
+  },
+  {
+    "id" : "elon",
+    "name" : "Elon",
+    "headline" : "Elon Reeve Musk FRS is a business magnate and investor"
+  },
+  {
+    "id" : "gautam",
+    "name" : "Gautam",
+    "headline" : "Gautam is an Indian billionaire industrialist"
+  },
+  {
+    "id" : "bill",
+    "name" : "Bill",
+    "headline" : "Bill is an American business magnate and philanthropist"
+  },
+  {
+    "id" : "jeff",
+    "name" : "Jeff",
+    "headline" : "Jeff is an American entrepreneur, media proprietor, investor, and commercial astronaut"
+  },
+  {
+    "id" : "warren",
+    "name" : "Warren",
+    "headline" : "Warren Edward Buffett is an American business magnate, investor, and philanthropist"
+  },
+  {
+    "id" : "larry",
+    "name" : "Larry",
+    "headline" : "Lawrence Joseph Ellison is an American business magnate and investor"
+  },
+  {
+    "id" : "mukesh",
+    "name" : "Mukesh",
+    "headline" : "Mukesh is an Indian billionaire businessman"
+  },
+  {
+    "id" : "steve",
+    "name" : "Steve",
+    "headline" : "Steven is an American business magnate and investor"
+  },
+  {
+    "id" : "page",
+    "name" : "Page",
+    "headline" : "Page is an American business magnate, computer scientist and internet entrepreneur"
+  }
+]

@@ -1,0 +1,228 @@
+[
+  {
+    "id" : "bernard",
+    "name" : "Bernard",
+    "headline" : "Bernard Jean Étienne Arnault KBE is a French business magnate, investor, and art collector. He is the co-founder, chairman, and chief executive officer of LVMH Moët Hennessy – Louis Vuitton SE, the world's largest luxury goods company.",
+    "description" : "Bernard Arnault is Chairman and CEO of LVMH Moët Hennessy – Louis Vuitton, the world’s leading luxury products group. Born to an industrial family in Roubaix, France on March 5, 1949, Mr. Arnault attended the Roubaix lycée and the Faidherbe lycée in Lille. He then went on to study at the Ecole Polytechnique.He began his professional career that year as an engineer with the Ferret-Savinel construction company and successively was promoted to various executive management positions before becoming Chairman in 1978. Mr. Arnault remained there until 1984, when he undertook the reorganization of the Financière Agache holding company. He returned the group to profitability as he embarked upon a strategy of developing the world’s leading luxury products company. In the process, he reinvigorated Christian Dior as the cornerstone of the new organization.In 1989, Mr. Arnault became the majority shareholder of LVMH Moët Hennessy – Louis Vuitton, creating the world’s leading luxury products group. ",
+    "link" : "https://en.wikipedia.org/wiki/Bernard_Arnault",
+    "image" : "bernard",
+    "gallery" : [
+      "bernard-1",
+      "bernard-2",
+      "bernard-3",
+      "bernard-4"
+    ],
+    "fact" : [
+      "Mr. Arnault has been Chairman and CEO of the company since that date.",
+      "Mr. Arnault is also President of the Board of Directors of Groupe Arnault S.E. (his family holding company).Mr. Arnault is married and has five children.",
+      "He has been awarded the honorary titles of Grand Officier de la Légion d’Honneur and Commandeur des Arts et des Lettres.."
+    ]
+  },
+  {
+    "id" : "elon",
+    "name" : "Elon",
+    "headline" : "The 53-year-old’s wealth decline spared Amazon founder Jeff Bezos from taking the Guinness World Record. Bezos’s $80 billion loss in 2022 would have firmly given him the “largest loss” title were it not for Musk.",
+    "description" : "Elon Musk can add a new title to his resume: Guinness World Record holder. The “Technoking” of Tesla made it into the record books thanks to an abysmal 2022 which saw his fortune shrink by $182 billion, the organization announced Friday in a release that cited data from Forbes.Guinness noted that although “the exact figure [of Musk’s loss] is almost impossible to ascertain,” with some outlets estimating that he lost more than $200 billion, the Twitter owner demolished the previous record: a $58.6 billion loss by Japanese investor Masayoshi Son in 2000.Musk’s shrinking fortune was largely due to the steep slide of Tesla shares, which lost roughly 65% of their value during the company’s worst year on record.The loss was enough to knock him off his perch as the richest man in the world — a title now held by luxury goods magnate Bernard Arnault. Of course, Musk isn’t the only billionaire whose fortune took a hit in 2022.",
+    "link" : "https://en.wikipedia.org/wiki/Elon_Musk",
+    "image" : "elon",
+    "gallery" : [
+      "elon-1",
+      "elon-2",
+      "elon-3",
+      "elon-4"
+    ],
+    "fact" : [
+      "Fellow tech CEO Mark Zuckerberg also broke Masayoshi Son’s record with his $78 billion loss.",
+      "Musk’s fortune once sat as high as $320 billion in late 2021. As of Jan. 10, Forbes estimates that his net worth sits at $142.1 billion, making him the No. 2 richest person in the world ahead of India’s Gautam Adani ($125.1 billion).",
+      " American billionaires collectively lost $660 billion last year, CNBC Make It previously reported."
+    ]
+  },
+  {
+    "id" : "gautam",
+    "name" : "Gautam",
+    "headline" : "Mr Gautam Adani is the Founder and Chairman of the Adani Group, which ranks among the top 3 industrial conglomerates in India.",
+    "description" : "Adani Group consists of 7 publicly listed entities with a combined market capitalization in excess of $242.73 billion (as of August 29, 2022) with businesses spanning Energy, Ports & Logistics, Mining & Resources, Gas, Defence & Aerospace, and Airports. The Group has established a leadership position in India in each of its business areas. For Mr Adani, nation-building means transforming India's coastline by building a string of ports and logistics hubs. For him, nation-building also means strengthening the country's energy security and mitigating the urban-rural divide by delivering electricity to several hundreds of millions living in the hinterlands of India. Nation-building, for Mr Adani, also involves boosting food security by building a modern agriculture supply chain and empowering the farmers. Each of his industrial endeavours has created tens of thousands of jobs. Mr Adani aims to make India one of the most significant players in sustainable energy by investing in the renewable ecosystem spanning solar manufacturing, generation, and solar park businesses. He dreams of making India self-reliant in defence and security.  The Group has a strong track record of working with global business leaders who want to participate in India’s growth story. The global expertise of these international companies in their respective businesses, combined with the project execution and market capabilities of Adani Group, has created enduring partnerships. The partners include Wilmar Group, Total SA, and Elbit Systems. Adani Foundation, the Group's Corporate Social Responsibility arm, is among his key interest areas. ",
+    "link" : "https://en.wikipedia.org/wiki/Gautam_Adani",
+    "image" : "gautam",
+    "gallery" : [
+      "gautam-1",
+      "gautam-2",
+      "gautam-3",
+      "gautam-4"
+    ],
+    "fact" : [
+      "Mr Adani, a first-generation entrepreneur, is driven by the core philosophy of infusing 'Growth with Goodness' through his nation-building vision. ",
+      "Each of the Group's businesses focuses on helping build world-class infrastructure capabilities to help accelerate the growth of India.",
+      "The Foundation's pan-India initiatives across critical sectors of education, healthcare, sustainable livelihoods, and community infrastructure development touch more than 3.4 million lives annually in 2315 villages across 18 Indian states."
+    ]
+  },
+  {
+    "id" : "bill",
+    "name" : "Bill",
+    "headline" : "For over 20 years, the Bill & Melinda Gates Foundation has been committed to tackling the greatest inequities in our world.",
+    "description" : "Unfortunately, factors outside of anyone’s control make it hard for some people to reach their potential: things like when they were born, who their parents are, where they grew up, whether they are a boy or a girl. We wake up every day determined to use our resources to create a world where everyone has the opportunity to lead a healthy and productive life. Most importantly, we believe this: All lives have equal value. That’s why we made the decision to donate our wealth from Microsoft to help others.The challenge when we started out was how to do that in a meaningful and high-impact way. We were drawn to things that sprang from our experience, so we began donating PCs to public libraries across the United States to give everyone a chance to use one. As we read and traveled more, we also became curious about inequalities further from home. One day, we read a newspaper article about millions of children in poor countries who die from diseases, such as diarrhea and pneumonia, that were easily treated in wealthier countries. That blew our minds. As new parents it hit us especially hard. If there’s anything worse than the death of a child, we said to each other, then surely, it’s the preventable death of a child.",
+    "image" : "bill",
+    "gallery" : [
+      "bill-1",
+      "bill-2",
+      "bill-3",
+      "bill-4"
+    ],
+    "fact" : [
+      "Those eight words changed the rest of our lives.",
+      "We started consulting experts, learning from locals in the countries where we wanted to work, and researching disease and poverty more deeply. We tried to figure out how we might use our voices to raise the visibility of global health, and how our resources could start saving and transforming lives.",
+      "We also expanded our work in the United States from providing access to computers and the Internet to making sure that every student had an equal opportunity to learn, graduate, and succeed."
+    ]
+  },
+  {
+    "id" : "jeff",
+    "name" : "Jeff",
+    "headline" : "Jeff Bezos , byname of Jeffrey Preston Bezos, (born January 12, 1964, Albuquerque, New Mexico, U.S.), American entrepreneur who played a key role in the growth of e-commerce as the founder and chief executive officer of Amazon.com, Inc., an online merchant of books and later of a wide variety of products. Under his guidance, Amazon became the largest retailer on the World Wide Web and the model for Internet sales.",
+    "description" : "While still in high school, Bezos developed the Dream Institute, a centre that promoted creative thinking in young students. After graduating (1986) summa cum laude from Princeton University with degrees in electrical engineering and computer science, he undertook a series of jobs before joining the New York investment bank D.E. Shaw & Co. in 1990. Soon named senior vice president—the firm’s youngest—Bezos was in charge of examining the investment possibilities of the Internet. Its enormous potential—Web usage was growing by more than 2,000 percent a year—sparked his entrepreneurial imagination. In 1994 he quit D.E. Shaw and moved to Seattle, Washington, to open a virtual bookstore. Working out of his garage with a handful of employees, Bezos began developing the software for the site. Named after the South American river, Amazon sold its first book in July 1995.",
+    "link" : "https://en.wikipedia.org/wiki/Jeff_Bezos",
+    "image" : "jeff",
+    "gallery" : [
+      "jeff-1",
+      "jeff-2",
+      "jeff-3",
+      "jeff-4"
+    ],
+    "fact" : [
+      "Amazon quickly became the leader in e-commerce. Open 24 hours a day, the site was user-friendly, encouraging browsers to post their own reviews of books and offering discounts, personalized recommendations, and searches for out-of-print books.",
+      "In June 1998 it began selling CDs, and later that year it added videos. In 1999 Bezos added auctions to the site and invested in other virtual stores. The success of Amazon encouraged other retailers, including major book chains, to establish online stores",
+      "As more companies battled for Internet dollars, Bezos saw the need to diversify, and by 2005 Amazon offered a vast array of products, including consumer electronics, apparel, and hardware."
+    ]
+  },
+  {
+    "id" : "warren",
+    "name" : "Warren",
+    "headline" : "At an average height of around 5 m (16-18 ft.), the giraffe is the tallest land animal in the world. Giraffes live primarily in savanna areas in the sub-Saharan region of Africa.",
+    "description" : "You probably know that I don't make stock recommendations. However, I have two thoughts regarding your personal expenditures that can save you real money. I'm suggesting that you call on the services of two subsidiaries of Berkshire: GEICO and Borsheim's.I estimate that about 40% of all auto drivers in the country can save money by insuring with GEICO. The figure is not 100% because insurers differ in their underwriting judgments, with some favoring drivers who live in certain geographical areas and work in certain occupations more than GEICO does. I believe, however, that GEICO more frequently offers the low price than does any other national carrier selling insurance to all comers. You can quickly find out whether you can save money by going to www.geico.com or by calling 800-555-2756. Fine jewelry, watches and giftware will almost certainly cost you less at Borsheim's. I've looked at the figures for all publicly-owned jewelry companies and the contrast with Borsheim's is startling. Our one-store operation, with its huge volume, enables us to operate with costs that are fully 15-20 percentage points below those incurred by our competitors. We pass the benefits of this low-cost structure along to our customers. Every year Borsheim's sends out thousands of selections to customers who want a long-distance opportunity to inspect what it offers and decide which, if any, item they'd like to purchase. We do a huge amount of business in this low-key way, which allows the shopper to conveniently see the exceptional values that we offer. Call Sean Moore or Karen Goracke at Borsheim's (800-642-4438) and save substantial money on your next purchase of jewelry.",
+    "image" : "warren",
+    "gallery" : [
+      "warren-1",
+      "warren-2",
+      "warren-3",
+      "warren-4"
+    ],
+    "fact" : [
+      "On May 6, 1964, Berkshire Hathaway, then run by a man named Seabury Stanton, sent a letter to its shareholders offering to buy 225,000 shares of its stock for $11.375 per share. I had expected the letter; I was surprised by the price.",
+      "Berkshire then had 1,583,680 shares outstanding. About 7% of these were owned by Buffett Partnership Ltd. (“BPL”), an investing entity that I managed and in which I had virtually all of my net worth.",
+      "Shortly before the tender offer was mailed, Stanton had asked me at what price BPL would sell its holdings. I answered $11.50, and he said, “Fine, we have a deal.” Then came Berkshire’s letter, offering an eighth of a point less."
+    ]
+  },
+  {
+    "id" : "larry",
+    "name" : "Larry",
+    "headline" : "Larry Ellison, in full Lawrence Joseph Ellison, (born August 17, 1944, New York City, New York, U.S.), American businessman and entrepreneur who was cofounder and chief executive officer (1977–2014) of the software company Oracle Corporation.",
+    "description" : "His mother, Florence Spellman, was a 19-year-old single parent. After he had a bout of pneumonia at the age of nine months, she sent him to Chicago to live with her aunt and uncle, Lillian and Louis Ellison, who adopted the child. He attended the University of Illinois in Urbana-Champaign from 1962 but dropped out in 1964 shortly after Lillian’s death; he had been very close to his adoptive mother but had a much more difficult relationship with Louis, who often told him that he would never amount to anything. Larry then briefly attended the University of Chicago in 1966. He went to California and spent the next several years as a computer programmer for various companies. Beginning in 1973, he worked at the electronics company Ampex, where he met fellow programmer Ed Oates and was supervised by Bob Miner. Ellison left Ampex in 1976 and later joined Precision Instruments (later Omex), where he was vice president of research and development",
+    "link" : "https://en.wikipedia.org/wiki/Larry_Ellison",
+    "image" : "larry",
+    "gallery" : [
+      "larry-1",
+      "larry-2",
+      "larry-3",
+      "larry-4"
+    ],
+    "fact" : [
+      "In 1977 Ellison joined with Miner and Oates to form Software Development Laboratories (SDL), which was created to do contract programming for other companies.",
+      "Ellison wanted SDL to do more. Inspired by a research paper written by British-born computer scientist Edgar F. Codd that outlined a relational database model, Ellison and his colleagues saw commercial potential in the approach, which organized large amounts of data in a way that allowed for efficient storage and quick retrieval",
+      "llison, Miner, and Oates set to work developing and marketing a program based on Codd’s data-management theory. They received a contract from the Central Intelligence Agency to develop a database, and they began working on a commercial relational database program. "
+    ]
+  },
+  {
+    "id" : "mukesh",
+    "name" : "Mukesh",
+    "headline" : "Ambani, (born April 19, 1957, Aden, Yemen), Indian business mogul, chairman and managing director of the Indian conglomerate Reliance Industries Limited (RIL), the foremost company of the Indian energy and materials conglomerate Reliance Group.",
+    "description" : "Ambani was one of four children of Dhirubhai Ambani, who first worked as a gas station attendant. Because of the increasingly unstable political climate in Aden, where Mukesh was born, the family relocated in 1958 to the Bhuleshwar neighbourhood of Bombay (now Mumbai), where they lived in a chawl (a communal building that commonly features low-rent two-room apartments). In the same year, Dhirubhai and a cousin founded the Reliance Commercial Corporation, which grew into RIL from a commodities-trading business that they initially operated out of a one-room rental space.",
+    "link" : "https://www.britannica.com/biography/Mukesh-Ambani",
+    "image" : "mukesh",
+    "gallery" : [
+      "mukesh-1",
+      "mukesh-2",
+      "mukesh-3",
+      "mukesh-4"
+    ],
+    "fact" : [
+      "Ambani earned a bachelor’s degree in chemical engineering from the University of Bombay (now the University of Mumbai) and subsequently pursued a master’s degree in business administration from Stanford University.",
+      "However, he left the program in 1981 to join the family business, where he worked to diversify the company, venturing into a vast array of areas, including communications, infrastructure, petrochemicals, petroleum refining, polyester fibres, and gas and oil production.",
+      "In 2004 he was named one of the world’s most-respected business leaders by the professional-services firm PricewaterhouseCoopers."
+    ]
+  },
+  {
+    "id" : "steve",
+    "name" : "Steve",
+    "headline" : "Steve Ballmer, in full Steven Anthony Ballmer, (born March 24, 1956, Detroit, Michigan, U.S.), American businessman who was CEO of the computer software company Microsoft Corporation.",
+    "description" : "Ballmer graduated from Harvard University in 1977 with bachelor’s degrees in mathematics and economics. After working for two years at consumer products company Procter & Gamble as a product manager, he attended the Stanford University Graduate School of Business. In 1980 he left school to become a business manager for Bill Gates, a friend from Harvard who had dropped out of school and cofounded Microsoft. Over the next two decades, Ballmer held various posts as Microsoft grew into one of the most powerful and profitable companies in American history. Much of its initial success was due to the dominance of its operating systems MS/DOS and Windows.",
+    "link" : "https://en.wikipedia.org/wiki/Steve_Ballmer",
+    "image" : "steve",
+    "gallery" : [
+      "steve-1",
+      "steve-2",
+      "steve-3",
+      "steve-4"
+    ],
+    "fact" : [
+      "In 1998 Ballmer became president of Microsoft, and two years later he became the company’s CEO, after Gates stepped down from that position to become chairman.",
+      "Under Ballmer’s leadership, Microsoft diversified its focus through new products such as the electronic game console system Xbox, first released in 2001, and the Zune family of portable media players introduced in 2006.",
+      "The Xbox struggled to make consistent profits, however, and the Zune players failed to challenge the market dominance of Apple’s iPod."
+    ]
+  },
+  {
+    "id" : "page",
+    "name" : "Page",
+    "headline" : "Larry Page, byname of Lawrence Edward Page, (born March 26, 1973, East Lansing, Michigan, U.S.), American computer scientist and entrepreneur who, with Sergey Brin, created the online search engine Google, one of the most popular sites on the Internet.",
+    "description" : "Page, whose father was a professor of computer science at Michigan State University, received a computer engineering degree from the University of Michigan (1995) and entered into the doctorate program at Stanford, where he met Brin. The two were both intrigued with the idea of enhancing the ability to extract meaning from the mass of data accumulated on the Internet. Working from Page’s dormitory room, they devised a new type of search engine technology that leveraged Web users’ own ranking abilities by tracking each site’s “backing links”—that is, the number of other pages linked to them",
+    "link" : "https://en.wikipedia.org/wiki/Larry_Page",
+    "image" : "page",
+    "gallery" : [
+      "page-1",
+      "page-2",
+      "page-3",
+      "page-4"
+    ],
+    "fact" : [
+      "In order to further their search engine, Page and Brin raised about $1 million in outside financing from investors, family, and friends.",
+      "They called their expanded search engine Google—a name derived from a misspelling of the word googol (a mathematical term for the number 1 followed by 100 zeros).",
+      "y September 1998 the two had founded Google Inc., with Page as chief executive officer (CEO). The next year Google received $25 million of venture capital funding and was processing 500,000 queries per day."
+    ]
+  },
+  {
+    "id" : "carlos",
+    "name" : "Carlos",
+    "headline" : "Carlos Slim Helu, often known as Slim, was born in Mexico City on January 28, 1940. His parents, Julian Slim Haddad (born Khalil Salim Haddad Aglamaz) and Linda Helu Atta, were Maronite Christians from Lebanon.",
+    "description" : "As a child growing up, he received many lessons from his father on business-related topics such as finance, management and accounting. His father also taught him practical skills such as how to read financial statements and maintain accurate financial records. Aged eleven, Slim invested in a government savings bond, which is where he learned about compound interest. He purchase his first stock when he was twelve, and was a shareholder in Mexico's largest bank by the time he was fifteen. As a teenager, he worked for his father's company, earning 200 pesos a week. Eventually, he studied civil engineering at the National Autonomous University of Mexico.",
+    "link" : "https://www.celebritynetworth.com/richest-businessmen/richest-billionaires/carlos-slim-helu-net-worth/",
+    "image" : "carlos",
+    "gallery" : [
+      "carlos-1",
+      "carlos-2",
+      "carlos-3",
+      "carlos-4"
+    ],
+    "fact" : [
+      "Slim's business career began when he took a job as a stock trader in Mexico following his graduation from university.",
+      "By 1965, his private investments had made profits of $400,000, which he used to start the stock brokerage Inversora Bursatil.",
+      "With his 1965 purchase of Jarritos del Sur., he began laying the groundwork for what would eventually become the conglomerate Grupo Carso. He founded Inmobilaria Carso in 1966, which was estimated to be worth $40 million at the time."
+    ]
+  },
+  {
+    "id" : "sergey",
+    "name" : "Sergey",
+    "headline" : "Sergey Brin is a Russian-born American computer scientist and internet entrepreneur who has a net worth of $78 billion.",
+    "description" : " Sergey Brin earned his net worth as the co-founder of Google, which today is known by umbrella parent company Alphabet. He co-founded the company with Larry Page, a classmate at Standford's computer science graduate program. Sergey served as Google's head of technology for 10 years, from 2001 until 2011, at which point he appointed himself director of special projects. Sergey Mikhaylovich Brin was born August 21, 1973 in Moscow, Russia. When he was just 6 years old, Sergey and his family escaped Russia to save themselves from Jewish persecution. They eventually landed in Maryland where his father was hired as a math professor at the University of Maryland. Perhaps not surprisingly, Sergey also exhibited an extraordinary aptitude for solving math problems at an early age. His father tutored him at home, where he nurtured his son's analytical skills and instilled in him an interest in computers.",
+    "link" : "https://www.celebritynetworth.com/richest-businessmen/richest-billionaires/sergey-brin-net-worth/",
+    "image" : "sergey",
+    "gallery" : [
+      "sergey-1",
+      "sergey-2",
+      "sergey-3",
+      "sergey-4"
+    ],
+    "fact" : [
+      "After graduating from college in May 1993, Sergey Brin entered a computer science graduate program at Stanford University. At an orientation program for new students, he met fellow student Larry Page.",
+      "his would later prove to be a friendship that would forever change the landscape of World Wide Web. At the onset, the partners had a hard time gelling. According to Brin, 'we both (are) obnoxious', constantly debating with each other.",
+      "It was Page who had the idea for a new way to evaluate the quality of a website by examining the site's external links."
+    ]
+  }
+]
