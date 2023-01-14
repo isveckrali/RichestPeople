@@ -14,7 +14,13 @@ struct InsetFactView: View {
     // MARK: -BODY
     var body: some View {
         GroupBox{
-            
+            TabView{
+                ForEach(person.fact, id: \.self){ item in
+                    Text(item)
+                }
+            }//: TABS
+            .tabViewStyle(.page)
+            .frame(minHeight: 148, idealHeight: 168, maxHeight: 180)
         }//: BOX
     }
 }

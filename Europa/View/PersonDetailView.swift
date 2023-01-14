@@ -48,13 +48,33 @@ struct PersonDetailView: View {
                 // FACTS
                 Group{
                     HeadingView(headingImage: "questionmark.circle", headingText: "Did you know?")
+                    InsetFactView(person: person)
+                    
                 }
                 
                 //DESCRIPTION
+                Group{
+                    HeadingView(headingImage: "info.circle", headingText: "All about \(person.name)")
+                    
+                    Text(person.description)
+                        .multilineTextAlignment(.leading)
+                        .layoutPriority(1)
+                }
+                .padding(.horizontal)
                 
                 //MAP
+                Group{
+                    HeadingView(headingImage: "map", headingText: "The World")
+                    
+                    InsetMapView()
+                }
                 
                 //LINK
+                Group{
+                    HeadingView(headingImage: "books.vertical", headingText: "Learn More")
+                    
+                    ExternalWebLinkView(person: person)
+                }
                 
             }//: VSTACK
             .navigationBarTitle("Learn about \(person.name)", displayMode: .inline)
