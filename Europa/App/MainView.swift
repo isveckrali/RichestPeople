@@ -15,7 +15,7 @@ struct MainView: View {
                     Image(systemName: "square.grid.2x2")
                     Text("Browse")
                 }
-            VideoListView()
+            VideoListItemView()
                 .tabItem {
                     Image(systemName: "play.rectangle")
                     Text("Watch")
