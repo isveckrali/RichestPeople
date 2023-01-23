@@ -8,11 +8,26 @@
 import SwiftUI
 
 struct GalleryView: View {
+    // MARK: - PROPERTIES
+    
+    // SIMPLE GRID DEFINITION
+    let gridLayout: [GridItem] = [
+        GridItem(.flexible()),
+        GridItem(.flexible()),
+        GridItem(.flexible())
+    ]
+    
+    // MARK: - BODY
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        ScrollView(.vertical, showsIndicators: false) {
+            Text("Gallery")
+        }//: SCROLL
+        .frame(width: .infinity, height: .infinity)
+        .background(MotionAnimationView())
     }
 }
 
+// MARK: - PREIVEW
 struct GalleryView_Previews: PreviewProvider {
     static var previews: some View {
         GalleryView()
