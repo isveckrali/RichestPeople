@@ -26,6 +26,9 @@ struct ContentView: View {
                 }//: LOOP
             }//: LIST
             .navigationBarTitle("Sweden", displayMode: .large)
+            .toolbar {
+                
+            }
         }//: NAVIGATION
     }
 }
