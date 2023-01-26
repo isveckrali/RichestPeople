@@ -33,7 +33,7 @@ struct MapView: View {
         }//: MAP
         .overlay(
             HStack(alignment: .center, spacing: 12, content: {
-                Image("compass")
+                Image(systemName: "globe.europe.africa.fill")
                     .resizable()
                     .scaledToFit()
                     .frame(width: 48, height: 48, alignment: .center)

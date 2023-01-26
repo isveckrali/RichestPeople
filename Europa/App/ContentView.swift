@@ -54,6 +54,8 @@ struct ContentView: View {
                                 PersonListItemView(person: person)
                             }//: LINK
                         }//: LOOP
+                        CreditsView()
+                            .modifier(CenterModifier())
                     }//: LIST
                 } else {
                     ScrollView(.vertical, showsIndicators: false) {

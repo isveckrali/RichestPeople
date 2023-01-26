@@ -1,21 +1,25 @@
 {
   "images" : [
     {
+      "filename" : "icon-messages-settings-29x29@2x-1.png",
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "29x29"
     },
     {
+      "filename" : "icon-messages-settings-29x29@3x-1.png",
       "idiom" : "iphone",
       "scale" : "3x",
       "size" : "29x29"
     },
     {
+      "filename" : "icon-messages-app-iPhone-60x45@2x-1.png",
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "60x45"
     },
     {
+      "filename" : "icon-messages-app-iPhone-60x45@3x-1.png",
       "idiom" : "iphone",
       "scale" : "3x",
       "size" : "60x45"
